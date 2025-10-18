@@ -23,19 +23,6 @@ Ultrasonic Sensor	Trig: 9, Echo: 10	Pothole detection
 Buzzer (IR Alert)	7	Alerts obstacles
 Buzzer (Ultra Alert)	4	Alerts potholes
 Vibration Motor	5	Tactile feedback
-Circuit Diagram
-Arduino UNO
-+-----------+
-|           |
-|  IR Pin 2 |---- IR Sensor
-| Trig 9    |---- Ultrasonic Trig
-| Echo 10   |<--- Ultrasonic Echo
-| Buzzer7   |---- IR Buzzer
-| Buzzer4   |---- Ultrasonic Buzzer
-| Vib 5     |---- Vibration Motor
-+-----------+
-
-
 
 
 How to Use
